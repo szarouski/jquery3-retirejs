@@ -1,0 +1,4 @@
+@bower_components/jasmine-fixture/vendor/js/jquery-1.11.0.js
+@bower_components/jasmine-fixture/vendor/js/jquery-1.8.3.js
+@bower_components/jasmine-fixture/vendor/js/jquery-2.1.0.js
+@bower_components/slick/examples
