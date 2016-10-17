@@ -34,6 +34,7 @@
     "webfontloader": "^1.6.24"
   },
   "resolutions": {
-    "jquery-migrate": "~3.0.0"
+    "jquery-migrate": "~3.0.0",
+    "knockout": "feature/jquery-3.0.0-deprecation-fix"
   }
 }
